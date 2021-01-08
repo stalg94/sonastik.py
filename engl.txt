@@ -1,0 +1,11 @@
+﻿first
+second
+third
+forth
+car
+alphabet
+eye
+game
+comp
+mouse
+cup
